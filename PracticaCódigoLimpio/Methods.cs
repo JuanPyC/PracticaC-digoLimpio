@@ -16,7 +16,7 @@ class Program
         RegistrarUsuario("Profesor1", "contraseña3");
         RegistrarUsuario("Administrativo1", "contraseña4");
 
-        // Iniciar sesión
+       
         IniciarSesion();
 
         // Mostrar menú correspondiente al tipo de usuario
