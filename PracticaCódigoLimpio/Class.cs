@@ -96,15 +96,15 @@ public class GestorCursos
 
 public class GestorHorarios
 {
-    // Implementar lógica para la gestión de horarios
+    
 }
 
 public class InterfazUsuario
 {
-    // Implementar la interfaz de usuario
+ 
 }
 
 public class GestorNotas
 {
-    // Implementar la gestión de notas
+    
 }
